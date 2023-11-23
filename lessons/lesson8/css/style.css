@@ -1,0 +1,18 @@
+#test{
+    color: orange;
+}
+p{
+    color: blue;
+    /* color: blue !important; */
+    display: inline-block; 
+}
+.sale{
+    color: green;
+}
+.pay{
+    color: red;
+}
+
+div#aaa.bbb.ccc ul#rrr.lll li#ooo.ccc a span#ppp.bbb{
+    color: orchid !important;
+}
